@@ -1,0 +1,15 @@
+C:\Users\Vikas\Desktop\WPF\reimagined-adventure\comienzo\bin\Debug\comienzo.exe.config
+C:\Users\Vikas\Desktop\WPF\reimagined-adventure\comienzo\bin\Debug\comienzo.exe
+C:\Users\Vikas\Desktop\WPF\reimagined-adventure\comienzo\bin\Debug\comienzo.pdb
+C:\Users\Vikas\Desktop\WPF\reimagined-adventure\comienzo\obj\Debug\comienzo.csprojAssemblyReference.cache
+C:\Users\Vikas\Desktop\WPF\reimagined-adventure\comienzo\obj\Debug\MainWindow.g.cs
+C:\Users\Vikas\Desktop\WPF\reimagined-adventure\comienzo\obj\Debug\App.g.cs
+C:\Users\Vikas\Desktop\WPF\reimagined-adventure\comienzo\obj\Debug\comienzo_MarkupCompile.cache
+C:\Users\Vikas\Desktop\WPF\reimagined-adventure\comienzo\obj\Debug\comienzo_MarkupCompile.lref
+C:\Users\Vikas\Desktop\WPF\reimagined-adventure\comienzo\obj\Debug\MainWindow.baml
+C:\Users\Vikas\Desktop\WPF\reimagined-adventure\comienzo\obj\Debug\comienzo.g.resources
+C:\Users\Vikas\Desktop\WPF\reimagined-adventure\comienzo\obj\Debug\comienzo.Properties.Resources.resources
+C:\Users\Vikas\Desktop\WPF\reimagined-adventure\comienzo\obj\Debug\comienzo.csproj.GenerateResource.cache
+C:\Users\Vikas\Desktop\WPF\reimagined-adventure\comienzo\obj\Debug\comienzo.csproj.CoreCompileInputs.cache
+C:\Users\Vikas\Desktop\WPF\reimagined-adventure\comienzo\obj\Debug\comienzo.exe
+C:\Users\Vikas\Desktop\WPF\reimagined-adventure\comienzo\obj\Debug\comienzo.pdb
